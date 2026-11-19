@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Poojidha/Poojidha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-# Hi, I'm Poojidha 👋
 
-Here are some ideas to get you started:
+Software Developer & Cybersecurity Enthusiast based in Chennai, India. I enjoy building machine learning security systems, network anomaly detection pipelines, and practical web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+* **[SIEM — Unsupervised ML Network Anomaly Detection](https://github.com)** — An end-to-end network intrusion and DoS detection pipeline built with PyTorch Autoencoder, Isolation Forest, and One-Class SVM using majority-vote ensemble learning on the CICIDS2017 dataset.
+* **[SMB_CYBERGUARD](https://github.com)** — A lightweight cybersecurity assessment and defense portal designed to help Small and Medium Businesses evaluate and mitigate common security risks.
+* **[CODSOFT](https://github.com)** — A collection of software development projects and applications built during my internship track.
+
+### Tech Stack
+* **Languages:** Python, HTML5, CSS3, JavaScript, SQL
+* **Machine Learning & Data:** PyTorch, Scikit-Learn, Pandas, NumPy
+* **Domains:** Cybersecurity, Network Anomaly Detection, Backend & Web Development
+* **Tools:** Git, GitHub, Linux
+
+### Connect With Me
+* **GitHub:** [@Poojidha](https://github.com)
+* **Email:** poojidhaganesh@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/poojidha-g-869916300
