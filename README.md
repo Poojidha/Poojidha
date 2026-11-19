@@ -1,6 +1,5 @@
 ## Hi I'm Poojidha 👋
 
-<!-
 
 Software Developer & Cybersecurity Enthusiast based in Chennai, India. I enjoy building machine learning security systems, network anomaly detection pipelines, and practical web applications.
 
